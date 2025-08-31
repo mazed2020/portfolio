@@ -65,7 +65,7 @@ export default function Hero() {
           {/* CTA */}
           <div className="mt-8">
             <a
-              href="/cv.pdf"
+              href="https://drive.google.com/file/d/12P2Nhy9yEyrI-HGXVFWAerM1eMw67paz/view?usp=drive_link"
               className="inline-flex items-center gap-2 rounded-full bg-indigo-600 px-6 py-3 font-semibold text-white hover:bg-indigo-500 transition shadow-lg"
               download
             >
