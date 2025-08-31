@@ -29,7 +29,7 @@ export default function AboutSection() {
           <FeatureCard
             icon={<FaGithub className="text-3xl text-indigo-400" />}
             title="Projects"
-            desc="Selected work from personal and client projects, showcasing problem-solving and clean implementation."
+            desc="Projects such as a Job Seeking app, AI Fake News Detection, and more — showcasing problem-solving and clean implementation."
           />
 
           <FeatureCard
