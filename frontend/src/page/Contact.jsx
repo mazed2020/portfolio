@@ -1,13 +1,13 @@
 import React from 'react'
 import Layout from '../component/Layout/Layout'
-import Contact from '../component/Contact'
+import ContactSection from '../component/ContactSection'
 
-const contact = () => {
+const Contact = () => {
   return (
      <Layout>
-         <Contact/>
+         <ContactSection/>
      </Layout>
   )
 }
 
-export default contact
+export default Contact

@@ -43,7 +43,7 @@ export default function Hero() {
               <HiOutlineMail />
             </a>
             <a
-              href="https://facebook.com"
+              href="https://web.facebook.com/mdmazedul.islam.965928/"
               target="_blank"
               rel="noreferrer"
               className="inline-flex h-10 w-10 items-center justify-center rounded-md bg-indigo-500/10 text-indigo-300 hover:bg-indigo-500/20 hover:text-white transition"
@@ -52,7 +52,7 @@ export default function Hero() {
               <FaFacebookF />
             </a>
             <a
-              href="https://instagram.com"
+              href="#"
               target="_blank"
               rel="noreferrer"
               className="inline-flex h-10 w-10 items-center justify-center rounded-md bg-indigo-500/10 text-indigo-300 hover:bg-indigo-500/20 hover:text-white transition"
@@ -81,7 +81,7 @@ export default function Hero() {
             <div className="absolute inset-0 -z-10 rounded-full blur-2xl bg-indigo-500/30 scale-110"></div>
 
             <img
-              src="../../public/mazed.jpg"          /* replace with your image path */
+              src="/mazed.jpg"          /* replace with your image path */
               alt="mazed"
               className="h-64 w-64 md:h-80 md:w-80 rounded-full object-cover ring-8 ring-white/10 shadow-[0_0_80px_rgba(99,102,241,0.5)]"
             />

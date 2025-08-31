@@ -2,8 +2,8 @@ import React from 'react'
 import {BrowserRouter,Route,Routes} from 'react-router-dom'
 import Home from './page/Home'
 import About from './page/About'
-import Contact from './page/contact'
-import Project from './page/project'
+import Contact from './page/Contact'
+import Project from './page/Project'
 
 const App = () => {
   return (

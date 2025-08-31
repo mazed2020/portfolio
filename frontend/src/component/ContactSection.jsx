@@ -1,4 +1,4 @@
-export default function Contact() {
+export default function ContactSection() {
     return (
       <section id="contact" className="relative min-h-screen bg-[#0f0f12] text-white">
         {/* subtle curved overlay */}
