@@ -15,7 +15,7 @@ export default function ContactSection() {
           <div className="mt-12 grid gap-12 md:grid-cols-2">
             {/* LEFT: copy + socials */}
             <div>
-              <h3 className="text-3xl font-semibold">Let’s Talk To Us</h3>
+              <h3 className="text-3xl font-semibold">Let’s Talk To Me</h3>
               <p className="mt-3 max-w-md text-gray-300 leading-relaxed">
                 Have some big idea or brand to develop and need help? Then we’d
                 love to hear about your project and provide help.
